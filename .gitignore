@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+.ipynb_meta/
+
+# Data & artifacts
+data/
+artifacts/
+outputs/
+checkpoints/
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if used later)
+node_modules/
+
+# nbgrader/gradescope intermediates
+nbgrader/exchange/
+nbgrader/submitted/
+nbgrader/autograded/

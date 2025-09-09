@@ -1,0 +1,27 @@
+# Core scientific stack
+numpy
+matplotlib
+pandas
+
+# PyTorch
+torch
+torchvision
+
+# Hugging Face
+transformers
+datasets
+evaluate
+accelerate
+
+# Jupyter
+jupyter
+jupyterlab
+
+# Grading / tooling
+pytest
+nbgrader
+
+# Web/app frameworks (optional)
+dash
+gradio
+streamlit
