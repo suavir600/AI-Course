@@ -30,3 +30,11 @@ node_modules/
 nbgrader/exchange/
 nbgrader/submitted/
 nbgrader/autograded/
+
+# Ignore key files
+AIKey
+AIKey.pub
+*.pem
+*.key
+id_ed25519
+id_ed25519.pub
